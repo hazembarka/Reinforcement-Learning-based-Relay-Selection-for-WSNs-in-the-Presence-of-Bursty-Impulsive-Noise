@@ -1,4 +1,4 @@
-#Reinforcement Learning-based Relay Selection for Cooperative WSNs in the Presence of Bursty Impulsive Noise
+# Reinforcement Learning-based Relay Selection for Cooperative WSNs in the Presence of Bursty Impulsive Noise
 
 This repository is an accompaniment to the paper titled "RL-based Relay Selection for Cooperative WSNs in the Presence of Bursty Impulsive Noise," accepted for publication at IEEE Wireless Communications and Networking Conference (WCNC) 2024. Authored by Hazem Barka, Md Sahabul Alam, Georges Kaddoum, Minh Au, and Basile L. Agba. The paper presents innovative research on optimizing relay selection in Wireless Sensor Networks (WSN) through Reinforcement Learning (RL), particularly focusing on environments with bursty impulsive noise.
 
